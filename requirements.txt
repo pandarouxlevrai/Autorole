@@ -1,0 +1,5 @@
+discord.py==1.7.3
+dnspython==1.16.0
+discord-py-slash-command==3.0.3
+requests==2.26.0
+pymongo
